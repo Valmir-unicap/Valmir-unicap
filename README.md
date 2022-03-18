@@ -56,7 +56,7 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 <div>
 
-## **Visitas no pefil - Atividade** 
+## **Visitas no perfil - Github** 
 
 <!-- visitors count  -->
 
