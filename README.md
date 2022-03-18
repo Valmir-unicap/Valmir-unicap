@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, sou Valmir Júnior!
+## **Olá, sou Valmir Júnior!** ##
 
 Sou estudante de bacharelado em Ciência da Computação.
 
@@ -8,7 +8,7 @@ Sou estudante de bacharelado em Ciência da Computação.
 ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
 by *Grady Booch*** 🌍 
 
-## **Redes Sociais**
+## **Redes Sociais** ##
 
 <div>
  <a href = "https://api.whatsapp.com/send?phone=5581999480536&text=Enviar%20mensagem%20para%20Valmir%20Júnior"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
@@ -19,7 +19,7 @@ by *Grady Booch*** 🌍
 
 </div>
 
-  ## GitHub Análise
+  ## **GitHub Análise** ##
 
 <div align="start">
   <a href="https://github.com/Valmir-unicap">
@@ -28,7 +28,7 @@ by *Grady Booch*** 🌍
 
    </div>
 
- ## Tecnologias
+ ## **Tecnologias** ##
 
 Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
@@ -56,7 +56,7 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 <div>
 
-## **Visitas no perfil - Github** 
+  ## **Visitas no perfil Github** ##
 
 <!-- visitors count  -->
 
@@ -68,7 +68,7 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 <!-- github workflow  -->
 
-  ![](https://github.com/valmir-unicap/valmir-unicap/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Valmir-unicap/Valmir-unicap/blob/output/github-contribution-grid-snake.svg)
 
  </div>
 
@@ -76,4 +76,5 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
+
 </div>
