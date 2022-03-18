@@ -71,8 +71,10 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
   ## **Snake Game** ##
 
 <!-- github workflow  -->
+ 
+![github contribution grid snake animation](https://raw.githubusercontent.com/valmir-unicap/valmir-unicap/output/github-contribution-grid-snake.svg)
 
- ![Snake animation](https://github.com/valmir-unicap/valmir-unicap/blob/output/github-contribution-grid-snake.svg)
+
 
  </div>
 
