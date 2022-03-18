@@ -72,7 +72,7 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 <!-- github workflow  -->
  
- ![Snake animation](https://github.com/valmir-unicap/valmir-unicap/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
  </div>
 
