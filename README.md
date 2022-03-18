@@ -66,6 +66,8 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
 
 </div>
 
+<div>
+
   ## **Snake Game** ##
 
 <!-- github workflow  -->
