@@ -2,7 +2,9 @@
 
 ## **Olá, sou Valmir Júnior!** ##
 
-Sou estudante de bacharelado em Ciência da Computação.
+<p> -Sou estudante de bacharelado em Ciência da Computação | UNICAP</p>
+<p> -Sou técnico em administração | CODAI-UFRPE </p>
+<p> -Sou técnico em redes de computadores | ETEGEC </p>
 
 🌎 **"Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso,
 ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
@@ -21,10 +23,11 @@ by *Grady Booch*** 🌍
 
   ## **GitHub Análise** ##
 
-<div align="start">
-  <a href="https://github.com/Valmir-unicap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valmir-unicap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-unicap&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+<a href="https://github.com/valmir-unicap">
+<div style="display: inline_block" align="center">  
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&theme=blue-green"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&theme=blue-green"/>
 
    </div>
 
