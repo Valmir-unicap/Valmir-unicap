@@ -23,11 +23,10 @@ by *Grady Booch*** 🌍
 
   ## **GitHub Análise** ##
 
-<div>
 <a href="https://github.com/valmir-unicap">
 <div style="display: inline_block" align="center">  
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&theme=blue-green"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&theme=blue-green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&theme=blue-green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&theme=blue-green"/>
 
    </div>
 
