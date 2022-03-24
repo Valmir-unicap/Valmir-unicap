@@ -11,7 +11,6 @@ ele está repleto de abstrações claras e linhas de controle objetivas."
 by *Grady Booch*** 🌍 
 
 ## **Redes Sociais** ##
-
 <div>
  <a href = "https://api.whatsapp.com/send?phone=5581999480536&text=Enviar%20mensagem%20para%20Valmir%20Júnior"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -23,12 +22,10 @@ by *Grady Booch*** 🌍
 
   ## **GitHub Análise** ##
 <div>
-<a href="https://github.com/valmir-unicap">
-<div style="display: inline_block" align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&theme=blue-green"/>
-
-   </div>
+ <a href="https://www.github.com/Valmir-unicap">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valmir-unicap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
  ## **Tecnologias** ##
 
@@ -79,8 +76,6 @@ Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
  </div>
 
   ## **Github Estatistícas** ##
-
- <hr>  
 
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
