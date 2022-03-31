@@ -25,8 +25,12 @@ by *Grady Booch*** 🌍
  <a href="https://www.github.com/Valmir-unicap">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valmir-unicap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
+  
 </div>
-
+ 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valmir-unicap&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   </div> 
+   
  ## **Tecnologias** 👨🏻‍💻 ##
 
 <div align="start">
