@@ -44,8 +44,8 @@ by *Grady Booch*** 🌍
  </div>
  
  ## **Ferramentas** 🛠 ## 
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=1B6AC6)
+  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Google](https://img.shields.io/badge/Google_For_Education-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  
@@ -94,6 +94,6 @@ by *Grady Booch*** 🌍
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Valmir-unicap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Valmir-unicap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
+  <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
 
 </div>
