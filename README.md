@@ -63,17 +63,9 @@ by *Grady Booch*** 🌍
   ## **Metododogias Ágeis** ## 
 
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
+  ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
   
-  </div>
   
-  ## **Ferramentas de reunião** 💻 ##
-  
-   ![Google](https://img.shields.io/badge/Google_Meet-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-  ![Microsoft_Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
   </div>
 
   ## **Visitas no perfil Github** ##
@@ -97,6 +89,9 @@ by *Grady Booch*** 🌍
  </div>
 
   ## **Github Estatistícas** ##
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Valmir-unicap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Valmir-unicap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
