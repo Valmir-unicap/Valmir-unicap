@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## **Olá, sou Valmir Júnior!** ##
+## **Olá mundo, sou Valmir Júnior!** 🧑‍💻  ## 
 
 <p> -Sou estudante de bacharelado em Ciência da Computação | UNICAP</p>
 <p> -Sou técnico em administração | CODAI-UFRPE </p>
@@ -10,7 +10,7 @@
 ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
 by *Grady Booch*** 🌍 
 
-## **Redes Sociais** ##
+## **Redes Sociais** 🚀 ##
 <div>
  <a href = "https://api.whatsapp.com/send?phone=5581999480536&text=Enviar%20mensagem%20para%20Valmir%20Júnior"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -27,33 +27,50 @@ by *Grady Booch*** 🌍
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
- ## **Tecnologias** ##
-
-Estas são algumas das tecnologias e ferramentas, com as quais trabalho:
+ ## **Tecnologias** 👨🏻‍💻 ##
 
 <div align="start">
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=1B6AC6)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ </div>
+ 
+ ## **Ferramentas** 🛠 ## 
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Netbeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=1B6AC6)
+  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Google](https://img.shields.io/badge/Google_For_Education-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ 
  </div>
 
-  ## **Sistemas Operacionais**  
+  ## **Sistemas Operacionais** ⚡ ##  
 
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
-
+  ![IOS](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Microsoft-Windows_10-10?style=for-the-badge&logo=windows&logoColor=white)
+  ![MacOs](https://img.shields.io/badge/Apple-MacOS_Monterey-999999?style=for-the-badge&logo=apple&logoColor=white)
+  
   </div>
 
-  ## **Ferramentas de utilitários**
+  ## **Metododogias Ágeis** ## 
 
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
+  
+  </div>
+  
+  ## **Ferramentas de reunião** 💻 ##
+  
+   ![Google](https://img.shields.io/badge/Google_Meet-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+  ![Microsoft_Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<div>
+  </div>
 
   ## **Visitas no perfil Github** ##
 
