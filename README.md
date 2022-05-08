@@ -22,9 +22,9 @@ by *Grady Booch*** 🌍
 
   ## **Github Análise** ##
 <div>
- <a href="https://www.github.com/Valmir-unicap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valmir-unicap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
+ <a href="https://www.github.com/valmir-unicap"><div style="display: inline_block">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
   
 </div>
  
