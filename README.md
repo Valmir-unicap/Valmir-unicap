@@ -56,6 +56,7 @@ by *Grady Booch*** 🌍
  
  ## 💻 **Frameworks & Library** ##
  ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+ ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
  ## 📚 **Estudando** ##
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
