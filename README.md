@@ -52,6 +52,9 @@ by *Grady Booch*** 🌍
   ![Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)
  
  </div>
+ 
+ ## 🚀 Frameworks & Library
+ ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
   ## **Sistemas Operacionais** ⚡ ##  
 
@@ -65,8 +68,7 @@ by *Grady Booch*** 🌍
   ## **Metododogias Ágeis** ## 
 
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
-  ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
-  
+ 
   
   </div>
 
