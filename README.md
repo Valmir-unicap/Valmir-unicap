@@ -10,7 +10,7 @@
 ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
 by *Grady Booch*** 🌍 
 
-## **Redes Sociais** 🚀 ##
+## 🚀 **Redes Sociais**  ##
 <div>
  <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://github.com/Valmir-unicap"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -30,7 +30,7 @@ by *Grady Booch*** 🌍
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valmir-unicap&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
    </div> 
    
- ## **Tecnologias** 👨🏻‍💻 ##
+ ## 👨🏻‍💻 **Tecnologias**  ##
 
 <div align="start">
 
@@ -42,7 +42,7 @@ by *Grady Booch*** 🌍
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  </div>
  
- ## **Ferramentas** 🛠 ## 
+ ## 🛠 **Ferramentas** ## 
   ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -50,13 +50,19 @@ by *Grady Booch*** 🌍
   ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
  
  </div>
  
- ## 🚀 Frameworks & Library
+ ## 💻 **Frameworks & Library** ##
  ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
-  ## **Sistemas Operacionais** ⚡ ##  
+ ## 📚 **Estudando** ##
+ ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+
+  ## 🖥️ **Sistemas Operacionais** ##  
 
   ![IOS](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -66,13 +72,11 @@ by *Grady Booch*** 🌍
   </div>
 
   ## **Metododogias Ágeis** ## 
-
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
- 
   
-  </div>
+- Kanban
+- Scrum
 
-  ## **Visitas no perfil Github** ##
+ ## **Visitas no perfil Github** ##
 
 <!-- visitors count  -->
 
