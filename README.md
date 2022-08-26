@@ -1,38 +1,28 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## **Olá mundo, sou Valmir Júnior!** 🧑‍💻  ## 
+# ***Olá mundo, sou Valmir Júnior!*** 🧑‍💻  # 
 
-<p> -Sou estudante de bacharelado em Ciência da Computação | UNICAP</p>
-<p> -Sou técnico em administração | CODAI-UFRPE </p>
-<p> -Sou técnico em redes de computadores | ETEGEC </p>
+- Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
+- Sou técnico em administração | ***CODAI-UFRPE***.
+- Sou técnico em redes de computadores | ***ETEGEC***.
 
-🌎 **"Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso,
-ele está repleto de abstrações claras e linhas de controle objetivas."                                                                                           
-by *Grady Booch*** 🌍 
+> 🌎 "Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas."                                                                       ***by Grady Booch*** 🌍 
 
-## 🚀 **Redes Sociais**  ##
-<div>
+## 🚀 ***Redes Sociais*** ##
  <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://github.com/Valmir-unicap"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/valmir.jr01"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="http://www.linkedin.com/in/valmir-júnior-1b72631a5"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-</div>
-
-  ## **Github Análise** ##
-<div>
+  ## ***Github Análise*** ##
  <a href="https://www.github.com/valmir-unicap"><div style="display: inline_block">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valmir-unicap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
-  
-</div>
  
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valmir-unicap&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-   </div> 
-   
- ## 👨🏻‍💻 **Tecnologias**  ##
 
-<div align="start">
+   
+ ## 👨🏻‍💻 ***Tecnologias*** ##
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,9 +32,8 @@ by *Grady Booch*** 🌍
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
- </div>
  
- ## 🛠 **Ferramentas** ## 
+ ## 🛠 ***Ferramentas*** ## 
   ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -57,13 +46,12 @@ by *Grady Booch*** 🌍
   ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  
- </div>
  
- ## 💻 **Frameworks & Library** ##
+ ## 💻 ***Frameworks & Library*** ##
  ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
- ## 📚 **Estudando** ##
+ ## 📚 ***Estudando*** ##
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
  ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
@@ -76,14 +64,13 @@ by *Grady Booch*** 🌍
   ![Windows](https://img.shields.io/badge/Microsoft-Windows_10-10?style=for-the-badge&logo=windows&logoColor=white)
   ![MacOs](https://img.shields.io/badge/Apple-MacOS_Monterey-999999?style=for-the-badge&logo=apple&logoColor=white)
   
-  </div>
 
-  ## **Metododogias Ágeis** ## 
+  ## ***Metododogias Ágeis*** ## 
   
-- Kanban
-- Scrum
+> - ***Kanban***
+> - ***Scrum***
 
- ## **Visitas no perfil Github** ##
+ ## ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
 
@@ -95,7 +82,7 @@ by *Grady Booch*** 🌍
 
 <div>
 
-  ## **Snake Game** ##
+  ## ***Snake Game*** ##
 
 <!-- github workflow  -->
  
@@ -103,7 +90,7 @@ by *Grady Booch*** 🌍
 
  </div>
 
-  ## **Github Estatistícas** ##
+  ## ***Github Estatistícas*** ##
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Valmir-unicap's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Valmir-unicap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
