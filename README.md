@@ -70,6 +70,28 @@
 > - ***Kanban***
 > - ***Scrum***
 
+ ## ***Java*** ##
+ 
+ ```
+ public class ola{
+  public static void main(String[]args){
+   System.out.println("Conhecimento - avançado");
+  }
+ }
+ ```
+
+ ## ***Python*** ##
+ 
+ ```
+ print("Conhecimento - intermediário")
+ ```
+
+ ## ***JavaScript*** ##
+ 
+ ```
+ console.log("Conhecimento - básico")
+ ```
+
  ## ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
