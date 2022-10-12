@@ -126,3 +126,8 @@
   <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
 
 </div>
+
+## ***Citações*** ##
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
