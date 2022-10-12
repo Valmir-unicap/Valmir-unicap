@@ -1,6 +1,11 @@
+<h1 align="center">
+  <a href="https://github.com/valmir-unicap">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CFF&lines=Hello,+There!+👋;I'm+Valmir+Júnior+...;I'm+software+engineer+&center=true&size=30">
+  </a>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# ***Olá mundo, sou Valmir Júnior!*** 🧑‍💻  # 
+# ***Minhas formação*** 🧑‍💻  # 
 
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
 - Sou técnico em administração | ***CODAI-UFRPE***.
