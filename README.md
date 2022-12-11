@@ -80,30 +80,9 @@
 > - ***Scrum***
 
  ## 🧪 Testing ##
+   ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
    
- ## ***Java*** ##
- 
- ```
- public class ola{
-  public static void main(String[]args){
-   System.out.println("Conhecimento - avançado");
-  }
- }
- ```
-
- ## ***Python*** ##
- 
- ```
- print("Conhecimento - intermediário")
- ```
-
- ## ***JavaScript*** ##
- 
- ```
- console.log("Conhecimento - básico")
- ```
-
  ## ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
