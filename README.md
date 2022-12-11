@@ -125,9 +125,8 @@
  </div>
 
   ## ***Github Estatistícas*** ##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmir-unicap&bg_color=00e1ff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmir-unicap&bg_color=000000&color=4bc91d&line=452895&point=4a3852&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
 <div align="center">
   <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
 
