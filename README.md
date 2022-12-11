@@ -62,7 +62,9 @@
  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
   ## 🖥️ **Sistemas Operacionais** ##  
-
+   
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![IOS](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Windows](https://img.shields.io/badge/Microsoft-Windows_10-10?style=for-the-badge&logo=windows&logoColor=white)
