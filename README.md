@@ -115,3 +115,8 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
+
+## 🏆 GitHub Trophies 🏆 ##
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=valmir-unicap&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
+</div>
