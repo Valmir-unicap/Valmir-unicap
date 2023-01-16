@@ -11,7 +11,9 @@
 - Sou técnico em administração | ***CODAI-UFRPE***.
 - Sou técnico em redes de computadores | ***ETEGEC***.
 
-> 🌎 "Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas."                                                                       ***by Grady Booch*** 🌍 
+```
+ 🌎 "Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas."            ***by Grady Booch*** 🌍 
+ ```
 
 ## 🚀 ***Redes Sociais*** ##
  <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
