@@ -13,16 +13,11 @@
 
 ```
  🌎 "Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas."            ***by Grady Booch*** 🌍 
- ```
+ ```  
 
-## 🚀 ***Redes Sociais*** ##
-  
- <a href = "mailto: valmiralvesjr2000@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://github.com/Valmir-unicap"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://instagram.com/valmir.jr01"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="http://www.linkedin.com/in/valmir-unicap"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <hr />
 
-  ## ***Github analyzes*** ##
+  ## 🚀 ***Github analyzes*** ##
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valmir-unicap&hide=Html&theme=nord_dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valmir-unicap&theme=nord_dark)
@@ -31,6 +26,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmir-unicap&layout=compact&langs_count=16&theme=dark"/>
  
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Valmir-unicap&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   
+   <hr />
    
  ## 👨🏻‍💻 ***Tecnologias*** ##
 
@@ -42,6 +39,8 @@
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+  
+  <hr />
 
  ## 🛠 ***Tools*** ## 
    
@@ -58,17 +57,23 @@
   ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
   ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  
+  <hr />
  
  ## 💻 ***Frameworks & Library*** ##
    
    ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   
+   <hr />
 
  ## 📚 ***Studying*** ##
    
    ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+   
+   <hr />
 
   ## 🖥️ ***Operating systems*** ##  
    
@@ -79,16 +84,22 @@
   ![Windows](https://img.shields.io/badge/Microsoft-Windows_10-10?style=for-the-badge&logo=windows&logoColor=white)
   ![MacOs](https://img.shields.io/badge/Apple-MacOS_Monterey-999999?style=for-the-badge&logo=apple&logoColor=white)
   
-  ## ***Agile methodologies*** ## 
+  <hr />
   
-    > - ***Kanban***
-    > - ***Scrum***
+  ## 📚 ***Agile methodologies*** ## 
+  
+ > - ***Kanban***
+ > - ***Scrum***
+
+  <hr />
 
  ## 🧪 Testing ##
    ![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
    
- ## ***Github profile visitsb*** ##
+   <hr />
+   
+ ## 🚀 ***Github profile visits*** ##
 
 <!-- visitors count  -->
 
@@ -100,6 +111,8 @@
 
 <div>
 
+  <hr />
+
   ## ***Snake Game*** ##
 
 <!-- github workflow  -->
@@ -107,8 +120,10 @@
  ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
 
  </div>
+ 
+   <hr />
 
-  ## ***Github statistics*** ##
+  ## 🚀 ***Github statistics*** ##
    
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmir-unicap&bg_color=000000&color=4bc91d&line=452895&point=4a3852&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
@@ -117,11 +132,15 @@
 
 </div>
 
-## ***Quotes*** ##
+  <hr />
+
+## 📚 ***Quotes*** ##
    
   <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
+
+  <hr />
 
 ## 🏆 GitHub Trophies 🏆 ##
    
