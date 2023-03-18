@@ -17,7 +17,7 @@
 
   <hr />
 
-  ## 🚀 ***Github analyzes*** ##
+  ## 🚀 ***Github analyze*** ##
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valmir-unicap&hide=Html&theme=nord_dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valmir-unicap&theme=nord_dark)
