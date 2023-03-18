@@ -67,11 +67,13 @@
    
    <hr />
 
- ## 📚 ***Studying*** ##
+ ## 📚 ***Studying now*** ##
    
    ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
    
    <hr />
 
@@ -142,7 +144,7 @@
 
   <hr />
 
-## 🏆 GitHub Trophies 🏆 ##
+## 🏆 Github Trophies 🏆 ##
    
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=valmir-unicap&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
