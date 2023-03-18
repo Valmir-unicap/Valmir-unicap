@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CFF&lines=Hello,+World!+👋;I'm+Valmir+Junior+...;I'm+Software+Engineer+&center=true&size=31">
   </a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" height="400px">
 
 ## 🧑‍💻 ***My formations*** ## 
 
