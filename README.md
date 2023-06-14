@@ -115,8 +115,15 @@
    <hr />
 
   ## 🚀 ***Github statistics*** ##
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valmir-unicap&bg_color=000000&color=4bc91d&line=452895&point=4a3852&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <p align="center">
+    <a href="https://github.com/valmir-unicap/github-readme-activity-graph#gh-light-mode-only">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=valmir-unicap&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+    </a>
+    <a href="https://github.com/valmir-unicap/github-readme-activity-graph#gh-dark-mode-only">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=valmir-unicap&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+    </a>
+  </p>
    
 <div align="center">
   <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
