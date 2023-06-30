@@ -116,14 +116,8 @@
 
   ## 🚀 ***Github statistics*** ##
 
-  <p align="center">
-    <a href="https://github.com/valmir-unicap/github-readme-activity-graph#gh-light-mode-only">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=valmir-unicap&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-    </a>
-    <a href="https://github.com/valmir-unicap/github-readme-activity-graph#gh-dark-mode-only">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=valmir-unicap&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-    </a>
-  </p>
+  <a href="https://github.com/Valmir-unicap/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Valmir-unicap&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
    
 <div align="center">
   <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valmir-unicap&theme=solarized_dark"/>
@@ -145,3 +139,7 @@
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=valmir-unicap&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
   </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
