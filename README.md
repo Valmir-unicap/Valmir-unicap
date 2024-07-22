@@ -1,3 +1,6 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
 <h1 align="center">
   <a href="https://github.com/valmir-unicap">
     <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CFF&lines=Hello,+World!+👋;I'm+Valmir+Junior+...;I'm+Software+Engineer+&center=true&size=31">
@@ -147,6 +150,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=valmir-unicap&theme=dracula&no-frame=true&no-bg=false&margin-w=4">
   </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
